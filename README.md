@@ -14,4 +14,6 @@ There were no challenges with the data itself besides reformating the pivot tabl
 
 ![Spread sheet: Outcome based on Goals](https://github.com/stephenanayashilliard/Kickstarter-analysis/blob/master/Spread%20sheet%20%2COutcome%20Based%20on%20Goals.png)
 
-From the "Outcome based on Goals" spread sheet, a pivot table was created 
+From the "Outcome based on Goals" spread sheet, a pivot table was created.
+
+![Pivot Table:  Outcomes Based on Goals]
