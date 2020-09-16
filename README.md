@@ -27,3 +27,13 @@ Once again, there were no challenges using excel formulus themselves, however, t
 Examining the graph above there are two conclusions one can make:
   1. The best time to launch a new play production is during the Spring quarter with a May launch giving the best possible chance of a successful launch.
   2. Production success starts a steady decline in the summer months, however,  a launch in December is most likely to lead to a failed launch.
+
+### Analysis of Outcomes Based on Goals
+
+![Outcomes Based on Goals](https://github.com/stephenanayashilliard/Kickstarter-analysis/blob/master/Resources/Outcome_vs_Goals.png)
+
+The graph "Outcomes Based on Goals"  is based on the percentage of successful, failed and canceled productions and the goal amounts set during their fund raising efforts.  All canceled productions were at zero percent in all fund raising categories.   The successful and failed productions rates, however, are mirror images of each other.  From the graphic it appears that fundraising goals set at under $5000 are more likely to be successful with a study decline in that sucess rate as the funding goals increase.  There is a marked uptick in success rates at the 30k to 50k mark which could be explained by the fact that there are so few plays funded at this level so therefore a successful launch of a small number of them can make the date appear to suggest a greater chance of success than there is in actuality.
+
+### Data set limitations
+
+
