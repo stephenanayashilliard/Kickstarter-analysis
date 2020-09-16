@@ -35,5 +35,4 @@ Examining the graph above there are two conclusions one can make:
 The graph "Outcomes Based on Goals"  is based on the percentage of successful, failed and canceled productions and the goal amounts set during their fund raising efforts.  All canceled productions were at zero percent in all fund raising categories.   The successful and failed productions rates, however, are mirror images of each other.  From the graphic it appears that fundraising goals set at under $5000 are more likely to be successful with a study decline in that sucess rate as the funding goals increase.  There is a marked uptick in success rates at the 30k to 50k mark which could be explained by the fact that there are so few plays funded at this level so therefore a successful launch of a small number of them can make the date appear to suggest a greater chance of success than there is in actuality.
 
 ### Data set limitations
-
-
+Although the data's findings do provide  clear indicators of when is the best time period to launch a production, as well as what funding goals are most likely to lead to success, data detailing the play concepts might provide a clearing understanding;  for example, how many plays can be classified as  drama's or comedies, or how many plays were new productions or revivals?
