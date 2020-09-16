@@ -19,3 +19,5 @@ From the "Outcome based on Goals" spread sheet, a pivot table was created.
 ![Pivot Table:  Outcomes Based on Goals](https://github.com/stephenanayashilliard/Kickstarter-analysis/blob/master/Pivot%20table%2C%20Outcomes%20Based%20on%20Goals.png)
 
 Once again, there were no challenges using excel formulus themselves, however, there were challenges creating the charts and graphs.  There were visuals in the presentation that were time consuming. As I increase my skill in Excel, these issues will become less time consuming.
+
+### Analysis of Outcomes Based on Launch Date
