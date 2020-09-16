@@ -24,4 +24,6 @@ Once again, there were no challenges using excel formulus themselves, however, t
 
 ![Outcomes Based on Launch Date](https://github.com/stephenanayashilliard/Kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
-Examing the graph above
+Examining the graph above there are two conclusions one can make:
+  1. The best time to launch a new play production is during the Spring quarter with a May launch giving the best possible chance of a successful launch.
+  2. Production success starts a steady decline in the summer months, however,  a launch in December is most likely to lead to a failed launch.
