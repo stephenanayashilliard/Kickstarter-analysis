@@ -21,3 +21,7 @@ From the "Outcome based on Goals" spread sheet, a pivot table was created.
 Once again, there were no challenges using excel formulus themselves, however, there were challenges creating the charts and graphs.  There were visuals in the presentation that were time consuming. As I increase my skill in Excel, these issues will become less time consuming.
 
 ### Analysis of Outcomes Based on Launch Date
+
+![Outcomes Based on Launch Date](https://github.com/stephenanayashilliard/Kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
+
+Examing the graph above
